@@ -2,16 +2,14 @@
 
 Exception-only error monitoring for small SaaS teams.
 
-When production throws, you get a grouped issue with a stack you can read. Essentials only: issues, grouping, releases, source maps, calm alerts. No suite tax, no alert fatigue.
+When production throws, you get a grouped issue with a stack you can read. Essentials only: issues, grouping, releases, source maps, calm alerts.
 
 **lite · efficient · clarity**
 
-- Self-host light (&lt;200 MB) or Cloud
-- Keep your Sentry SDK — change the DSN
-- Flat bills. No surprise overages
+- Self-host under 200 MB, or Cloud
+- Keep your Sentry SDK — swap the DSN
+- Flat bills
 
-**Site:** [epure.com](https://epure.com)
+[epure.com](https://epure.com)
 
----
-
-<pre-product> Building in public. Product repos stay private until ready.
+Product is private while we build. Public repos land here when they are ready.
